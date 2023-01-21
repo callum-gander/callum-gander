@@ -11,6 +11,8 @@
 
 📫 How to reach me: callumgander.dev
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callum-gander&count_private=true)
+
 ## :floppy_disk: My Technologies and Skills
 
 #### :keyboard: Languages:
