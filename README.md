@@ -1,7 +1,7 @@
 ## :computer:  About Me
 :house: My name's Callum, I'm a Fullstack Engineer living and working in London. I'm currently employed at Ino Creative, a jewellery manufacturing startup based in London, but I will be leaving at the end of February and I am looking for something new
 
-🔭 I’m currently working on Guanyin, a GPT-3 powered app to help people study more efficiently, and HelpingHand, a cross platform app to help people with social issues socialise consistently
+🔭 I’m currently working on Guanyin, a GPT-3 powered app to help people study more efficiently, and HelpingHand, a cross platform app that allows users to describe their goals and the motivations behind them in order to get personalised, contextual notifications written by GPT3 
 
 🌱 I’m currently learning Rust, PyTorch and Tauri
 
