@@ -1,5 +1,5 @@
 ## :computer:  About Me
-:house: My name's Callum, I'm a Fullstack Engineer living and working in London. I was previously employed at Ino Creative, a jewellery manufacturing startup based in London, but left in February and am currently looking for something new!
+:house: My name's Callum, I'm a Fullstack Engineer living and working in London. I was previously employed at Ino Creative, a jewellery manufacturing startup based in London, but left in February and am currently working at Beauty Pie.
 
 🔭 I’m currently working on SherpaPath, a cross platform app that allows users to describe their goals and the motivations behind them in order build personalised systems to support them in achieving their goals. I'm planning to launch it in mid-April [See here](https://sherpapath.app). I also recently built Mad Alchemist, a fun little app for playing around with the ability of GPT-3.5 to create weird and wonderful experiments [See here](https://sherpapath.app).
 
